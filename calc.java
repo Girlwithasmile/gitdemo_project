@@ -14,8 +14,8 @@ public class Calculator {
     // Main method to test the parameterized methods
     public static void main(String[] args) {
         // Define some numbers to operate on
-        int num1 = 10;
-        int num2 = 5;
+        int num1 = 7;
+        int num2 = 8;
 
         // Call the add method and print the result
         int sum = add(num1, num2);
